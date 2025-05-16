@@ -1,4 +1,4 @@
-# EX-01 Name: DINESH KUMAR A (212223060057)
+# EX-01.a Name: DINESH KUMAR A (212223060057)
 # Write a simple Ideal sampling program using Python.
 
 
