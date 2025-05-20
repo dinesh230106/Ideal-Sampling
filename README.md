@@ -72,8 +72,6 @@ reconstructed_signal = resample(signal_sampled, len(t))
 
 plt.figure(figsize=(10, 4))
 
-plt.plot(t, signal, label='Continuous Signal', alpha=0.7)
-
 plt.plot(t, reconstructed_signal, 'r--', label='Reconstructed Signal (fs = 100 Hz)')
 
 plt.title('Reconstruction of Sampled Signal (fs = 100 Hz)')
